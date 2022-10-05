@@ -18,14 +18,14 @@ public class AboutMe {
 
 ![Badge en Desarollo](https://img.shields.io/badge/SKILLS-:-green)
 
-![badge](https://img.shields.io/badge/-HTML-orange) ![badge](https://img.shields.io/badge/-CSS-blue) ![badge](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![badge](https://img.shields.io/badge/-BOOTSTRAP-purple) ![badge](https://img.shields.io/badge/-SASS-ff69b4) ![badge](https://img.shields.io/badge/-GIT-orange)
+![badge](https://img.shields.io/badge/-HTML-orange) ![badge](https://img.shields.io/badge/-CSS-blue) ![badge](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![badge](https://img.shields.io/badge/-BOOTSTRAP-purple) ![badge](https://img.shields.io/badge/-SASS-ff69b4)
 
 <div align="right">
 <p>
  <img src="https://img.shields.io/badge/LEARNING-:-green">
 </p>
- <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-HTML-orange">
-</div>
+ <img src="https://img.shields.io/badge/-REACT-blue"> <img src="https://img.shields.io/badge/-ANGULAR-red"> <img src="https://img.shields.io/badge/-JAVA-brown"> <img src="https://img.shields.io/badge/-SPRING BOOT-green"> <img src="https://img.shields.io/badge/-MYSQL-white">
+</div><br><br>
 
 <div align="center">
 
@@ -38,6 +38,15 @@ public class AboutMe {
 <hr>
 
 
- ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)
- 
- 👉🏽 <a href="https://www.linkedin.com/in/gian-crova/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://img.shields.io/badge/-LinkedIn-014267?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+ ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
+
+<br>
+
+## CONTACT
+
+[![LinkedIn][linkedin-shield]]([https://www.linkedin.com/in/gian-crova/])
+[![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
