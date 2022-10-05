@@ -44,7 +44,7 @@ public class AboutMe {
 
 ## CONTACT
 
-[![LinkedIn][linkedin-shield]]([https://www.linkedin.com/in/gian-crova/])
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
 [![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
