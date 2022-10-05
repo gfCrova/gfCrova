@@ -27,8 +27,8 @@ public class AboutMe {
  <img src="https://img.shields.io/badge/-REACT-blue"> <img src="https://img.shields.io/badge/-ANGULAR-red"> <img src="https://img.shields.io/badge/-JAVA-brown"> <img src="https://img.shields.io/badge/-SPRING BOOT-green"> <img src="https://img.shields.io/badge/-MYSQL-white">
 </div><br><br>
 
-<div align="center">
-
+<div align="right">
+  
 <p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" alt="Gian-Crova" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&theme=tokyonight" /></p>
