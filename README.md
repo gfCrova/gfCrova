@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2000&pause=1000&color=076DF7&multiline=true&width=635&height=150&lines=Hi%2C+I'm+Gian+%F0%9F%91%8B;A+full+stack+web+development+student.;Argentina+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2000&pause=1000&color=076DF7&multiline=true&width=655&height=150&lines=Hi%2C+I'm+Gian+%F0%9F%91%8B;A+full+stack+web+development+student.;Argentina+🔵⚪🔵" alt="Typing SVG" /></a>
 
 ```java
 public class AboutMe {
