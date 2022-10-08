@@ -1,4 +1,10 @@
 
+<div id="badges"  align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi+I'm+Gian+👋+a+full+stack+web+development+student)](https://git.io/typing-svg)
+    
+  </div>
+
 # Hi, I'm Gian 👋 a full stack web development student. <img height="25" src="https://user-images.githubusercontent.com/103906625/193970884-9ebb84f8-7611-4dcf-a794-3322ae960a7e.png" alt="Readme en español">
 <p> I am currently in frontend training, in web application development. </p><br>
 
