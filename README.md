@@ -1,12 +1,5 @@
 
-<div id="badges"  align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi+I'm+Gian+👋+a+full+stack+web+development+student)](https://git.io/typing-svg)
-    
-  </div>
-
-# Hi, I'm Gian 👋 a full stack web development student. <img height="25" src="https://user-images.githubusercontent.com/103906625/193970884-9ebb84f8-7611-4dcf-a794-3322ae960a7e.png" alt="Readme en español">
-<p> I am currently in frontend training, in web application development. </p><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2000&pause=1000&color=076DF7&multiline=true&width=635&height=150&lines=Hi%2C+I'm+Gian+%F0%9F%91%8B;A+full+stack+web+development+student.;Argentina+" alt="Typing SVG" /></a>
 
 ```java
 public class AboutMe {
