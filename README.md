@@ -17,7 +17,7 @@ public class AboutMe {
 
 ![Badge en Desarollo](https://img.shields.io/badge/SKILLS-:-green)
 
-![badge](https://img.shields.io/badge/-HTML-orange) ![badge](https://img.shields.io/badge/-CSS-blue) ![badge](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![badge](https://img.shields.io/badge/-BOOTSTRAP-purple) ![badge](https://img.shields.io/badge/-SASS-ff69b4)
+![badge](https://img.shields.io/badge/-HTML-orange) ![badge](https://img.shields.io/badge/-CSS-blue) ![badge](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![badge](https://img.shields.io/badge/-BOOTSTRAP-purple) ![badge](https://img.shields.io/badge/-SASS-ff69b4) ![badge](https://img.shields.io/badge/-JQuery-darkblue)
 
 <div align="right">
 <p>
