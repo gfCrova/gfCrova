@@ -6,7 +6,7 @@ public class AboutMe {
   public static void main(String[] args) {
     final String ME = "Gian Franco Crova 🙋‍♂️";
     final String[] LANGUAGES = {"HTML", "CSS", "Javascript"};
-    final String[] FRAMEWORKS = {"Bootstrap", "React"};
+    final String[] FRAMEWORKS = {"Bootstrap", "Sass", "Jquery"};
     final String[] INTERESTS = {"Coding 💻", "to travel ✈", "Motorbikes 🏍️", "Football ⚽"};
     final String CONTACT = "https://www.linkedin.com/in/gian-crova/";
   }
