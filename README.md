@@ -23,6 +23,12 @@ public class AboutMe {
   <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="40"/> </a> 
   </div>    
   
+  <h3>Tools:</h3>
+  <div align="left">
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png" width="75"/> </a> &nbsp;
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> </a>
+  </div>
+  
   <h3 align="left">Learning:</h3> 
   <div align="left">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
