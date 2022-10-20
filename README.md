@@ -14,16 +14,24 @@ public class AboutMe {
 ```
 <br><hr>
 
-![Badge en Desarollo](https://img.shields.io/badge/SKILLS-:-green)
-
-![badge](https://img.shields.io/badge/-HTML-orange) ![badge](https://img.shields.io/badge/-CSS-blue) ![badge](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![badge](https://img.shields.io/badge/-BOOTSTRAP-purple) ![badge](https://img.shields.io/badge/-SASS-ff69b4) ![badge](https://img.shields.io/badge/-JQuery-darkblue)
-
-<div align="right">
-<p>
- <img src="https://img.shields.io/badge/LEARNING-:-green">
-</p>
- <img src="https://img.shields.io/badge/-REACT-blue"> <img src="https://img.shields.io/badge/-JAVA-brown"> <img src="https://img.shields.io/badge/-SPRING BOOT-green"> <img src="https://img.shields.io/badge/-MYSQL-white">
-</div><br><br>
+<h3 align="left">Skills:</h3> <h3 align="right">Learning:</h3>
+  <div align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; &nbsp;
+  <a href="https://www.w3schools.com/bootstrap4/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap4" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="40"/> </a> 
+  </div> <div align="right">
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+   <a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="nodejs" width="50" height="35"/> </a> &nbsp;
+   <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="50"/> </a> &nbsp;
+   <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="70" height="35"/> </a> &nbsp;
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="55"/> </a> 
+  </div> 
+  
+  
+  </div><br><br>
+  <hr>
 
 <div align="right">
   
