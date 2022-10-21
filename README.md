@@ -26,7 +26,8 @@ public class AboutMe {
   <h3>Tools:</h3>
   <div align="left">
     <a> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
-    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> </a>
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>
   </div>
   
   <h3 align="left">Learning:</h3> 
