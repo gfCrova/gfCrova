@@ -36,7 +36,7 @@ public class AboutMe {
     </td> 
     <td>
       <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
-      <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
+      <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
       <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>
     </td>
     <td>
