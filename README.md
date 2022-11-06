@@ -1,11 +1,12 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2000&pause=1000&color=076DF7&multiline=true&width=905&height=150&lines=Welcome+to+my+profile%F0%9F%91%8B;I'm+Gian%2C+a+full+stack+web+development+student.;Argentina+🔵⚪🔵" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=26&duration=2000&pause=1000&color=076DF7&multiline=false&width=400&height=70&lines=Welcome+to+my+profile%F0%9F%91%8B;" alt="Typing SVG" /></a>
+</div>
 
 ```java
 public class AboutMe {
   public static void main(String[] args) {
     final String ME = "Gian Franco Crova 🙋‍♂️";
-    final String[] ADDRESS = {"BS AS, Argentina"};
+    final String[] ADDRESS = {"BS AS, Argentina 🔵⚪🔵"};
     final String[] INTERESTS = {"Coding 💻", "to travel ✈", "Motorbikes 🏍️"};
     final String CONTACT = "https://www.linkedin.com/in/gian-crova/";
   }
