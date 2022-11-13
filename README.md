@@ -38,7 +38,9 @@ public class AboutMe {
     <td>
       <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
       <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
-      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>
+      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>      
+      <!-- DOCKER
+      <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="95"/> </a> &nbsp;</a>-->
     </td>
     <td>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
