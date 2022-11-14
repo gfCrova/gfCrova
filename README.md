@@ -31,15 +31,15 @@ public class AboutMe {
   <tbody>
     <td>
       <!-- HTML -->
-      <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
+      <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> &nbsp;
       <!-- CSS -->
-      <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
+      <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> &nbsp;
       <!-- JAVASCRIPT -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp; &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> &nbsp; &nbsp;
       <!-- BOOTSTRAP -->
-      <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap4" width="40" height="40"/> </a> &nbsp;
+      <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap4" width="35" height="35"/> </a> &nbsp;
       <!-- SCSS -->
-      <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="40"/> </a> 
+      <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="37" height="37"/> </a> 
     </td> 
     <td>
       <!-- GIT -->
@@ -54,11 +54,11 @@ public class AboutMe {
       <!-- NODE JS -->
       <!--<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="nodejs" width="50" height="35"/> </a> &nbsp; -->
        <!-- JAVA -->
-      <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="50"/> </a> &nbsp;
+      <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="40"/> </a> &nbsp;
        <!-- SPRING -->
       <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="70" height="35"/> </a> &nbsp;
        <!-- MySQL-->
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="55"/> </a> 
+      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="50"/> </a> 
       <!-- PostgreSQL-->
       <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="40" height="35"/> </a> 
       <!-- DOCKER-->
