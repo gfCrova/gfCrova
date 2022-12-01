@@ -71,7 +71,6 @@ public class AboutMe {
 
 <div align="center">
   <p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" alt="Gian-Crova" /></p>
-  <!-- CODE PAUSED -->
   <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&theme=tokyonight" /></p> -->
   <a href="https://github.com/gfCrova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&layout=compact&theme=tokyonight&hide_border=true" /></a>
 </div>
