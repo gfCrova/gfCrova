@@ -72,8 +72,8 @@ public class AboutMe {
 <div align="center">
   <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=ccc" width="750" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp;hide_border=true" width="600"/>-->
-  <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&amp&theme=tokyonight" width="600"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&layout=compact&theme=tokyonight" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&amp&theme=highcontrast" width="550" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&layout=compact&theme=highcontrast" width="450" height="200"/>
 </div>
 
 <br><hr>
@@ -91,4 +91,8 @@ public class AboutMe {
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
+
+<!--<details open="">
+  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> &nbsp;Git              statistics</b></summary>
+</details>-->
 
