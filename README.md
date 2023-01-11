@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+a+Sowfware+development+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+a+Full-Stack+web+development+student" alt="Typing SVG" /></a>
 </div>
 
 ```java
@@ -70,16 +70,16 @@ public class AboutMe {
 <br> <hr>
 
 <div align="center">
-  <p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" alt="Gian-Crova" /></p>
-  <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&theme=tokyonight" /></p> -->
-  <a href="https://github.com/gfCrova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=ccc" width="750" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp;hide_border=true" width="600"/>-->
+  <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&amp&theme=tokyonight" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&layout=compact&theme=tokyonight" width="500"/>
 </div>
 
-<hr>
-
+<br><hr>
 
 ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
-
+                                                                                                                            
 <br>
 
 ## CONTACT
