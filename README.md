@@ -14,7 +14,6 @@ public class AboutMe {
 }
 
 ```
-<hr>
 
 <table align=center>
   <thead>  
@@ -70,13 +69,11 @@ public class AboutMe {
 <br> <hr>
 
 <div align="center">
-  <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=ccc" width="750" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp;hide_border=true" width="600"/>-->
-  <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&amp&theme=highcontrast" width="550" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&layout=compact&theme=highcontrast" width="450" height="200"/>
+  <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=000" width="750" />-->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp;hide_border=true" width="600"/>
 </div>
 
-<br><hr>
+<br><hr><br>
 
 ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
                                                                                                                             
