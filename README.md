@@ -80,9 +80,9 @@ public class AboutMe {
 
 <div align="center">
   <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=000" width="750" />-->
-  <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="200"/>
+  <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp;hide_border=true" width="600"/>
-  <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="200"/>
+  <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
 </div>
 
 <!--CAIDOS-->
