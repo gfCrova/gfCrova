@@ -1,23 +1,31 @@
 
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+web+development+student+💻🧐" alt="Typing SVG" /></a>
-</div>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=40&animation=twinkling"/>
 
+  <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+web+development+student+💻🧐" alt="Typing SVG" /></a>-->
+  
+</div>
 
 ```java
 
 public class AboutMe {
+
   public static void main(String[] args) {
-    final String ME = "Gian Franco Crova";
-    final String[] ADDRESS = {"BS AS, Argentina"};
-    final String[] INTERESTS = {"Coding 💻", "to travel ✈", "Music 🎧"};
-    final String CONTACT = "https://www.linkedin.com/in/gian-crova/";
+      
+      final String ME = "Gian Franco Crova";
+      final String[] ADDRESS = {"Buenos Aires, Argentina 🔵⚪🔵"};
+      final String[] INTERESTS = {"to travel ✈", "Music 🎧", "Mate 🧉"};
+      final String CONTACT = "https://www.linkedin.com/in/gian-crova/";
+  
   }
+
 }
 
 ```
+<br>
 
+> ## Tecnologies
 
 <table align=center>
   <thead>  
@@ -69,8 +77,10 @@ public class AboutMe {
     </td>
   </tbody>
 </table><br>
-  
-<hr>
+<!-------------------------------------------------------------------------------->
+<br>
+
+> ## Statistics
 
 <div align="center">
   <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=000" width="750" />-->
@@ -131,7 +141,6 @@ public class AboutMe {
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+</div>
