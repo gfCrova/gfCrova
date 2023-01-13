@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+a+Full-Stack+web+development+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+web+development+student+💻🧐" alt="Typing SVG" /></a>
 </div>
 
 
@@ -18,7 +18,6 @@ public class AboutMe {
 
 ```
 
-### `LANGUAJES AND TOOLS`
 
 <table align=center>
   <thead>  
@@ -69,9 +68,9 @@ public class AboutMe {
       <a href="https://www.docker.com/"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" width="50" height="40" </a> &nbsp;</a>
     </td>
   </tbody>
-</table>
+</table><br>
   
-<br> <hr>
+<hr>
 
 <div align="center">
   <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=000" width="750" />-->
@@ -86,22 +85,8 @@ public class AboutMe {
 
 <br><hr><br>
 
-![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
-                                                                                                                            
-<br>
-
-## `CONTACT`
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
-[![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-
-
-<details open="">
-  <summary><b><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> &nbsp;Git              statistics</b></summary>
+<details>
+  <summary><b>&nbsp;🌎</b></summary>
 
   
 ``` geojson
@@ -132,4 +117,21 @@ public class AboutMe {
 
 ```
 </details>
+  
+
+![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
+                                                                                                                            
+<br>
+
+## `CONTACT`
+
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
+[![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+
+
+
 
