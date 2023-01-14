@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEFF00,100:273be2&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>
 
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+web+development+student+💻🧐" alt="Typing SVG" /></a>-->
   
@@ -143,5 +143,5 @@ public class AboutMe {
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=scaleIn"/>
 </div>
