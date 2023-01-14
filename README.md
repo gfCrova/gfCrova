@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=40&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEFF00,100:273be2&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>
 
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+web+development+student+💻🧐" alt="Typing SVG" /></a>-->
   
@@ -79,10 +79,13 @@ public class AboutMe {
 > ## Statistics
 
 <div align="center">
-  <!--<img src="https://github-stats-alpha.vercel.app/api?username=gfCrova&cc=000&tc=fff&ic=ffd700&bc=000" width="750" />-->
   <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp;hide_border=true" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="600"/>
   <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="500" height="198"/>
+  </div>
 </div>
 
 <!--CAIDOS-->
