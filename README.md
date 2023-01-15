@@ -21,7 +21,7 @@ public class AboutMe {
 ```
 <br>
 
-> ## Tecnologies
+> ## TECNOLOGIES
 
 <table align=center>
   <thead>  
@@ -76,7 +76,7 @@ public class AboutMe {
 <!-------------------------------------------------------------------------------->
 <br>
 
-> ## Statistics
+> ## STATISTICS
 
 <div align="center">
   <!--<img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>-->
@@ -134,7 +134,7 @@ public class AboutMe {
                                                                                                                             
 <br>
 
-## `CONTACT`
+> ## CONTACT
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
 [![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
