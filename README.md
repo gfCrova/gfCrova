@@ -6,6 +6,40 @@
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=34&duration=2500&pause=2000&color=076DF7&multiline=false&width=700&height=80&lines=Hi+there+👋,+Welcome+to+my+github+profile;I'm+Gian,+web+development+student+💻🧐" alt="Typing SVG" /></a>-->
   
 </div>
+  
+![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)  
+
+<details>
+  <summary><b>&nbsp;🌎</b></summary>
+  
+``` geojson
+  {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-58,-34],
+              [-58,-34],
+              [-58,-35],
+              [-58,-34],
+              [-58,-34]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+```
+</details>
 
 ```java
 
@@ -86,53 +120,7 @@ public class AboutMe {
     <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="359"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="300"/>
   </div>
-</div>
-
-<!--CAIDOS-->
-<!--<div style="display: flex;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
-</div>-->
-
-<br><hr><br>
-
-<details>
-  <summary><b>&nbsp;🌎</b></summary>
-
-  
-``` geojson
-  {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-58,-34],
-              [-58,-34],
-              [-58,-35],
-              [-58,-34],
-              [-58,-34]
-          ]
-        ]
-      }
-    }
-  ]
-}
-
-```
-</details>
-  
-
-![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
-                                                                                                                            
-<br>
+</div><br>
 
 > ## CONTACT
 
