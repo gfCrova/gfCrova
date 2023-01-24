@@ -3,7 +3,7 @@
   
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=header&text=Welcome!%20I'm%20Gian&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=scaleIn"/>-->
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hi+there+👋,+i'm+Gian+Franco;+I'm+web+developer+full+stack;+...read+a+little+about+me+👇" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hi+there+👋,+i'm+Gian+Franco;+Web+development+student;+...read+a+little+about+me+👇" alt="Typing SVG" /></a>
   
 </div>
   
