@@ -118,9 +118,9 @@ public class AboutMe {
 > ## STATISTICS
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
+  <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="600"/>
-  <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
+  <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
  <!--<div>
     <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="415" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="318" />
