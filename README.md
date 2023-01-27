@@ -119,7 +119,7 @@ public class AboutMe {
 
 <div align="center">
   <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="730"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="650"/>
   <img src="https://media2.giphy.com/media/BisFzXRPUAgUBjxDX6/giphy.gif?cid=ecf05e470zci43rkrg4lf8cpc4f8gat9h23cxdktc9eybntb&rid=giphy.gif&ct=s" height="175"/>
  <!--<div>
     <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="415" />
