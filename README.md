@@ -6,10 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=460&height=80&lines=Hi+there+👋,+i'm+Gian+Franco;+Web+development+student;+...read+a+little+about+me+👇" alt="Typing SVG" /></a>
   
 </div>
-  
 
-
-![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
+<!----------------------------------------------------------------------------------------------------------->
 
 <details>
   <summary><b>&nbsp;🌎</b></summary>
@@ -41,7 +39,7 @@
 }
 
 ```
-</details>
+</details> 
 
 ```java
 
@@ -57,7 +55,17 @@ public class AboutMe {
 ```
 <br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
+</div>
+
+![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
+
+<br>
+
 > ## TECNOLOGIES
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/)
 
 <table align=center>
   <thead>  
@@ -110,15 +118,13 @@ public class AboutMe {
   </tbody>
 </table><br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/)
+## Free Learning
 
 ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
 ![image](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-
-![image](https://github-profile-trophy.vercel.app/?username=gfCrova)
 
 <!-------------------------------------------------------------------------------->
 <br><br>
