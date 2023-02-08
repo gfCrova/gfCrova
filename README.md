@@ -112,6 +112,14 @@ public class AboutMe {
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/)
 
+![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
+![image](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+
+![image](https://github-profile-trophy.vercel.app/?username=gfCrova)
+
 <!-------------------------------------------------------------------------------->
 <br><br>
 
