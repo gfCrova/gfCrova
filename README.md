@@ -83,7 +83,7 @@ public class AboutMe {
   </tbody>
 </table><br>
 
-> <h3> Free Learning </h3>
+> <h3>Sites where I learned to program </h3>
 
 ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
