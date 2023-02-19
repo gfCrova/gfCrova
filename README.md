@@ -40,9 +40,6 @@ public class AboutMe {
     <th>
       <h3>Tools:</h3>
     </th>
-    <th>
-      <h3>Learning:</h3>
-    </th>
   </thead>
   <tbody>
     <td>
@@ -56,16 +53,6 @@ public class AboutMe {
       <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap4" width="35" height="35"/> </a> &nbsp;
       <!-- SCSS -->
       <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="37" height="37"/> </a> 
-    </td> 
-    <td>
-      <!-- GIT -->
-      <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
-      <!-- Visual Studio Code -->
-      <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
-      <!-- IntelliJ -->
-      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>      
-    </td>
-    <td>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
       <!-- NODE JS -->
       <!--<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="nodejs" width="50" height="35"/> </a> &nbsp; -->
@@ -79,6 +66,14 @@ public class AboutMe {
       <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="40" height="35"/> </a> 
       <!-- DOCKER-->
       <a href="https://www.docker.com/"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" width="50" height="40" </a> &nbsp;</a>
+    </td>
+    <td>
+      <!-- GIT -->
+      <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
+      <!-- Visual Studio Code -->
+      <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
+      <!-- IntelliJ -->
+      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>      
     </td>
   </tbody>
 </table><br>
