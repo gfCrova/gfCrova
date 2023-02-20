@@ -86,6 +86,8 @@ public class AboutMe {
 ![image](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![image](https://img.shields.io/badge/openBootcamp-blue?style=for-the-badge&logo=netlify&logoColor=yellow)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 <!-------------------------------------------------------------------------------->
 <br><br>
