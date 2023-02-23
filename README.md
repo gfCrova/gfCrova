@@ -38,6 +38,9 @@ public class AboutMe {
       <h3>Skills:</h3>
     </th>
     <th>
+      <h3>Learning:</h3>
+    </th>
+    <th>
       <h3>Tools:</h3>
     </th>
   </thead>
@@ -53,11 +56,12 @@ public class AboutMe {
       <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap4" width="35" height="35"/> </a> &nbsp;
       <!-- SCSS -->
       <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="37" height="37"/> </a> 
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
       <!-- NODE JS -->
       <!--<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="nodejs" width="50" height="35"/> </a> &nbsp; -->
        <!-- JAVA -->
       <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="40"/> </a> &nbsp;
+     </td>
+     <td>
        <!-- SPRING -->
       <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="70" height="35"/> </a> &nbsp;
        <!-- MySQL-->
@@ -66,6 +70,8 @@ public class AboutMe {
       <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="40" height="35"/> </a> 
       <!-- DOCKER-->
       <a href="https://www.docker.com/"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" width="50" height="40" </a> &nbsp;</a>
+      <!-- REACT JS -->
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
     </td>
     <td>
       <!-- GIT -->
