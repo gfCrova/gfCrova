@@ -80,6 +80,8 @@ public class AboutMe {
       <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
       <!-- IntelliJ -->
       <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;</a>      
+      <!-- Eclipse 
+      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/470px-Eclipse-Luna-Logo.svg.png" width="105"/> </a> &nbsp;</a>  -->    
     </td>
   </tbody>
 </table><br>
