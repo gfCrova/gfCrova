@@ -60,22 +60,22 @@ public class AboutMe {
       <!--<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="nodejs" width="50" height="35"/> </a> &nbsp; -->
        <!-- JAVA -->
       <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="40"/> </a> &nbsp;
+      <!-- MySQL-->
+      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
      </td>
      <td>
        <!-- SPRING -->
       <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="70" height="35"/> </a> &nbsp;
-       <!-- MySQL-->
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="50"/> </a> 
       <!-- PostgreSQL-->
       <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="40" height="35"/> </a> 
-      <!-- DOCKER-->
-      <a href="https://www.docker.com/"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" width="50" height="40" </a> &nbsp;</a>
       <!-- REACT JS -->
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
     </td>
     <td>
       <!-- GIT -->
       <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
+      <!-- DOCKER-->
+      <a href="https://www.docker.com/"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" width="50" height="40" </a> &nbsp
       <!-- Visual Studio Code -->
       <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
       <!-- IntelliJ -->
@@ -106,10 +106,10 @@ public class AboutMe {
   <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="500"/>
   <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
-  <div>
+  <!--<div>
     <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="425" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="280" />
-  </div>
+  </div>-->
 </div><br><br>
 
 > ## CONTACT
