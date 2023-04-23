@@ -100,6 +100,8 @@ public class AboutMe {
 ![image](https://img.shields.io/badge/openBootcamp-blue?style=for-the-badge&logo=netlify&logoColor=yellow)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![AluraLatam](https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge)
+![argprograma](https://img.shields.io/badge/argPrograma-black.svg?style=for-the-badge)
 
 <!-------------------------------------------------------------------------------->
 <br><br>
