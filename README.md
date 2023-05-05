@@ -80,12 +80,6 @@ public class AboutMe {
       <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227565370-8836f596-3ff0-4501-9686-01c2dc2bc6ac.png" width="65" height="32"/> </a> &nbsp;
       <!-- Postman -->
       <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a> &nbsp;
-        <!-- IntelliJ
-      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/250px-IntelliJ_IDEA_Icon.svg.png" width="35"/> </a> &nbsp;
-       Visual Studio Code
-      <a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/80px-Visual_Studio_Code_1.35_icon.svg.png"  width="35"/> &nbsp;
-       Eclipse  
-      <a href="https://www.jetbrains.com/es-es/idea/"> <img src="https://assets-eu-01.kc-usercontent.com/844a25be-b07a-010a-7ca0-4069669f847d/d1104ed1-3dd4-4656-9ccb-8b71ef9c38f6/eclipse_Color.svg?w=64&h=64&auto=format&fit=crop" width="35"/> </a> &nbsp;</a>  --> 
     </td>
   </tbody>
 </table><br>
