@@ -97,10 +97,10 @@ public class AboutMe {
 ![argprograma](https://img.shields.io/badge/argPrograma-black.svg?style=for-the-badge)
 <a href="https://www.aluracursos.com/?gclid=Cj0KCQjwr82iBhCuARIsAO0EAZyqc_liY3A_d4lcXbRQbGdPgYd2bR_9PVlk3yVMXOwC42GSYRTcga8aAraIEALw_wcB"><img src="https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge"></a>
 
-<div>
+<!--<div>
   <img width="100" src="https://user-images.githubusercontent.com/103906625/236354577-51b392a7-2ade-4fc4-b5d3-9f252b361398.png">
   <img width="100" src="https://user-images.githubusercontent.com/103906625/236354584-e76e708e-a7b3-4bd1-8972-699f948ff669.png">
-</div>
+</div>-->
 
 <br>
 
