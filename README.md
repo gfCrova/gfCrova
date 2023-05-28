@@ -25,7 +25,7 @@ public class AboutMe {
 <br>
 
 <div align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
 </div><br><br>
 
 > ## TECNOLOGIES
