@@ -78,7 +78,7 @@
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
 [![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <div align="center">
