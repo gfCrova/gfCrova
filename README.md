@@ -26,17 +26,20 @@
     <h4>Backend:</h4>
     <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="35" height="45"/> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="65" height="35"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="50"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/ae96145c-b3c6-4468-8c9c-a10f736d6a63" alt="mysql" width="35" height="35"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="30" height="35"/> </a> 
   </div>
+  
   <div>
     <h4>Tools:</h4>
     <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a>
-    <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227565370-8836f596-3ff0-4501-9686-01c2dc2bc6ac.png" width="65" height="32"/> </a>
-    <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a>
+    <a href="https://www.docker.com/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/b2384a0f-2416-47a0-af25-daae6d798b6c" width="40" height="40"/> </a>
+    <a href="https://junit.org/junit5/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/677b6e32-bf6b-49b2-a465-627d1f79ca18" width="35" height="35"/> </a>
+    <a href="https://www.postman.com/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a>
     <a href="https://insomnia.rest/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="35" height="35"/> </a>
   </div>
 </div><br><hr>
+
 
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/) -->
 
