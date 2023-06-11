@@ -15,7 +15,7 @@
 </div><br><br>
 
 
-> ## TECNOLOGIES
+> <i>TECNOLOGIES</i>
 
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/) -->
 
@@ -71,41 +71,31 @@
   </tbody>
 </table><br>
 
-> <h3>Sites where I learned to program </h3>
+> <i>EDUCATION</i>
 
-![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
-![image](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![image](https://img.shields.io/badge/openBootcamp-blue?style=for-the-badge&logo=netlify&logoColor=yellow)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![argprograma](https://img.shields.io/badge/argPrograma-black.svg?style=for-the-badge)
+![image](https://img.shields.io/badge/ONE-orange?style=for-the-badge&logo=oracle&logoColor=black)
 <a href="https://www.aluracursos.com/?gclid=Cj0KCQjwr82iBhCuARIsAO0EAZyqc_liY3A_d4lcXbRQbGdPgYd2bR_9PVlk3yVMXOwC42GSYRTcga8aAraIEALw_wcB"><img src="https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge"></a>
-
-<!--<div>
-  <img width="100" src="https://user-images.githubusercontent.com/103906625/236354577-51b392a7-2ade-4fc4-b5d3-9f252b361398.png">
-  <img width="100" src="https://user-images.githubusercontent.com/103906625/236354584-e76e708e-a7b3-4bd1-8972-699f948ff669.png">
-</div>-->
 
 <br>
 
-> ## STATISTICS
+> <i>STATISTICS</i>
 
 <div align="center">
   <!--
   <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="500"/>
   <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
--->
+  -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="425" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="280" />
   </div>
 </div><br><br>
 
-> ## CONTACT
+> <i>CONTACT</i>
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
 [![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
