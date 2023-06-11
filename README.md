@@ -8,25 +8,12 @@
 ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
 
   
-</div>
-
-<!-- ```java
-
-public class AboutMe {
-  public static void main(String[] args) {
-      final String ME = "Gian Franco Crova";
-      final String[] ADDRESS = {"Buenos Aires, Argentina 🔵⚪🔵"};
-      final String[] INTERESTS = {"to travel ✈", "Music 🎧", "Mate 🧉"};
-      final String CONTACT = "https://www.linkedin.com/in/gian-crova/";
-  }
-}
-
-```  -->
-<br>
+</div><br>
 
 <div align="center">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
 </div><br><br>
+
 
 > ## TECNOLOGIES
 
@@ -107,9 +94,11 @@ public class AboutMe {
 > ## STATISTICS
 
 <div align="center">
+  <!--
   <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gfCrova&amp;theme=neon-palenight&amp" width="500"/>
   <img src="https://media4.giphy.com/media/hT7Nj0fGwwmcq6gdKZ/giphy.gif?cid=ecf05e47znpshpuo2sj353whvp93oq4r2ue0x9b9gwfn3sh7&rid=giphy.gif&ct=s" height="140"/>
+-->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="425" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="280" />
