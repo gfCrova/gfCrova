@@ -8,64 +8,37 @@
 ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
 
   
-</div><br>
-
+</div><br><hr>
 
 > <i>TECNOLOGIES</i>
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/) -->
+<div>
+  <div>
+    <h4>Frontend:</h4>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/610d3e76-6a38-4fb1-9bf0-c95b22d3d107" alt="html5" width="35" height="35"/> </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/cb179641-fe33-491a-a641-c19983ea90c9" alt="css3" width="35" height="35"/> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/b67713a5-f7e2-4e65-8442-13eef0279393" alt="bootstrap4" width="35" height="35"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="35" height="35"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/69c414fb-69e8-4a9f-9db4-4ba4bab6af8c" alt="javascript" width="35" height="35"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="40"/> </a>
+  </div>
+  <div>
+    <h4>Backend:</h4>
+    <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="35" height="45"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="65" height="35"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="50"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="30" height="35"/> </a> 
+  </div>
+  <div>
+    <h4>Tools:</h4>
+    <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a>
+    <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227565370-8836f596-3ff0-4501-9686-01c2dc2bc6ac.png" width="65" height="32"/> </a>
+    <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a>
+    <a href="https://insomnia.rest/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="35" height="35"/> </a>
+  </div>
+</div><br><hr>
 
-<table align=center>
-  <thead>  
-    <th>
-      <h3>Skills:</h3>
-    </th>
-    <th>
-      <h3>Learning:</h3>
-    </th>
-    <th>
-      <h3>Tools:</h3>
-    </th>
-  </thead>
-  <tbody>
-    <td>
-      <!-- HTML -->
-      <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="50"/> </a> &nbsp;
-      <!-- CSS -->
-      <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="50"/> </a> &nbsp;
-      <!-- JAVASCRIPT -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="45"/> </a> &nbsp; &nbsp;
-      <!-- BOOTSTRAP -->
-      <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap4" width="35" height="40"/> </a> &nbsp;
-      <!-- SCSS -->
-      <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="35" height="45"/> </a> 
-      <!-- NODE JS -->
-      <!--<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="nodejs" width="50" height="35"/> </a> &nbsp; -->
-       <!-- JAVA -->
-      <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="35" height="45"/> </a> &nbsp;
-      <!-- MySQL-->
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50"/> </a>
-     </td>
-     <td>
-       <!-- SPRING -->
-      <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="65" height="35"/> </a> &nbsp;
-      <!-- PostgreSQL-->
-      <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="35" height="35"/> </a> 
-      <!-- REACT JS -->
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="40"/> </a> &nbsp;
-    </td>
-    <td>
-      <!-- GIT -->
-      <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a> &nbsp;
-      <!-- DOCKER-->
-      <a href="https://www.docker.com/"> <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" width="45" height="40" </a> &nbsp;
-      <!-- JUnit -->
-      <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227565370-8836f596-3ff0-4501-9686-01c2dc2bc6ac.png" width="65" height="32"/> </a> &nbsp;
-      <!-- Postman -->
-      <a href="https://junit.org/junit5/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a> &nbsp;
-    </td>
-  </tbody>
-</table><br>
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/) -->
 
 > <i>EDUCATION</i>
 
@@ -75,7 +48,7 @@
 ![image](https://img.shields.io/badge/ONE-orange?style=for-the-badge&logo=oracle&logoColor=black)
 <a href="https://www.aluracursos.com/?gclid=Cj0KCQjwr82iBhCuARIsAO0EAZyqc_liY3A_d4lcXbRQbGdPgYd2bR_9PVlk3yVMXOwC42GSYRTcga8aAraIEALw_wcB"><img src="https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge"></a>
 
-<br>
+<br><hr>
 
 > <i>STATISTICS</i>
 
@@ -95,7 +68,7 @@
   <img width="710" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
   </div>
   
-</div><br><br>
+</div><br><br><hr>
 
 > <i>CONTACT</i>
 
