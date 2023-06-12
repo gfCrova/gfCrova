@@ -51,7 +51,7 @@
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![openBootcamp](https://img.shields.io/badge/openBootcamp-darkblue?style=for-the-badge&logo=netlify&logoColor=yellow)
 
-<br>
+<br><hr>
 
 <h3><i>STATISTICS</i></h3>
 
@@ -73,7 +73,7 @@
   
 </div><br><br><hr>
 
-> <i>CONTACT</i>
+<h3><i>CONTACT</i></h3>
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
 [![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
