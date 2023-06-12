@@ -10,9 +10,9 @@
   
 </div><br><hr>
 
-<h3><i>TECNOLOGIES</i></h3>
+<h3 align="center"><i>TECNOLOGIES</i></h3>
 
-<table>
+<table align="center">
   <th>
     <h4><i>Frontend:</i></h4>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/610d3e76-6a38-4fb1-9bf0-c95b22d3d107" alt="html5" width="35" height="35"/> </a>
@@ -54,7 +54,7 @@
 
 <br><hr>
 
-<h3><i>STATISTICS</i></h3>
+<h3 align="center"><i>STATISTICS</i></h3>
 
 <div align="center">
   <!--
