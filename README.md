@@ -45,11 +45,11 @@
 
 > <i>EDUCATION</i>
 
-![image](https://img.shields.io/badge/openBootcamp-blue?style=for-the-badge&logo=netlify&logoColor=yellow)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![argprograma](https://img.shields.io/badge/argPrograma-black.svg?style=for-the-badge)
-![image](https://img.shields.io/badge/ONE-orange?style=for-the-badge&logo=oracle&logoColor=black)
-<a href="https://www.aluracursos.com/?gclid=Cj0KCQjwr82iBhCuARIsAO0EAZyqc_liY3A_d4lcXbRQbGdPgYd2bR_9PVlk3yVMXOwC42GSYRTcga8aAraIEALw_wcB"><img src="https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge"></a>
+![ONE](https://img.shields.io/badge/ONE-orange?style=for-the-badge&logo=oracle&logoColor=black)
+![aluraLatam](https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge&logo=accenture&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![openBootcamp](https://img.shields.io/badge/openBootcamp-darkblue?style=for-the-badge&logo=netlify&logoColor=yellow)
 
 <br><hr>
 
