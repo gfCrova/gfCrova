@@ -45,11 +45,13 @@
 
 <h3><i>EDUCATION</i></h3>
 
+![utn](https://img.shields.io/badge/UTN-white.svg?style=for-the-badge&logo=accenture&logoColor=black)
 ![argprograma](https://img.shields.io/badge/argPrograma-black.svg?style=for-the-badge)
 ![ONE](https://img.shields.io/badge/ONE-orange?style=for-the-badge&logo=oracle&logoColor=black)
-![aluraLatam](https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge&logo=accenture&logoColor=white)
+![aluraLatam](https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![openBootcamp](https://img.shields.io/badge/openBootcamp-darkblue?style=for-the-badge&logo=netlify&logoColor=yellow)
+![openBootcamp](https://img.shields.io/badge/openBootcamp-lightblue?style=for-the-badge&logo=opera&logoColor=darkblue)
+![freecodecamp](https://img.shields.io/badge/freecodecamp-darkblue.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
 <br><hr>
 
