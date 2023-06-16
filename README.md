@@ -13,8 +13,10 @@
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=95&section=header&text=&animation=scaleIn"/>-->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFoaTRzbDNkemd1eHBrZzV4YnFua2h5YXNtM3AxMGNpNmZheTBnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width="400">
   
-  ![name](https://img.shields.io/badge/Gian%20Franco%20Crova-black.svg?style=for-the-badge)
+  ![name](https://img.shields.io/badge/Gian%20Franco%20Crova-red.svg?style=for-the-badge)
   
+  ![nac](https://img.shields.io/badge/Buenos%20Aires-Argentina-lightblue?style=for-the-badge)
+ 
   ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
   
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=435&height=80&lines=Hi+developers+👋,+i'm+Gian;+I'm+web+developer+junior;+☝+...check+my+projects" alt="Typing SVG" /></a>-->
