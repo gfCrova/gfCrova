@@ -96,5 +96,5 @@
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=135&section=footer&text=Done?&fontSize=50&fontAlignY=65&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=&fontSize=50&fontAlignY=65&animation=scaleIn"/>
 </div>
