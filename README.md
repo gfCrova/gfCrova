@@ -3,17 +3,17 @@
 <div align="center">
   
   <div>
-    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="160" height="90"/>
-    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="90"/>
-    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="160" height="90"/>
-    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="90"/>
-    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="90"/>
+    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="160" height="100"/>
+    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="100"/>
+    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="160" height="100"/>
+    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="100"/>
+    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="100"/>
   </div><br>
   
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=95&section=header&text=&animation=scaleIn"/>-->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFoaTRzbDNkemd1eHBrZzV4YnFua2h5YXNtM3AxMGNpNmZheTBnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width="400">
   
-  ![name](https://img.shields.io/badge/DEV-Gian%20Franco%20Crova-red.svg?style=for-the-badge)
+  ![name](https://img.shields.io/badge/DEV:-Gian%20Franco%20Crova-red.svg?style=for-the-badge)
   
   ![nac](https://img.shields.io/badge/Buenos%20Aires-Argentina-lightblue?style=for-the-badge)
  
