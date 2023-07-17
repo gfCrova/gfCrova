@@ -17,8 +17,6 @@
     <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="120"/>
   </div>
   
-  <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=36&duration=2500&pause=2000&color=076DF7&multiline=false&width=435&height=80&lines=Hi+developers+👋,+i'm+Gian;+I'm+web+developer+junior;+☝+...check+my+projects" alt="Typing SVG" /></a>-->
-  
 </div><br><hr>
 
 <h3 align="center"><i>TECNOLOGIES</i></h3>
