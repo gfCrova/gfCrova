@@ -48,9 +48,6 @@
   </th>
 </table><br><br><hr>
 
-
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/53bb90ff-2f4f-408b-9aa6-f040edb738a6/deploy-status)](https://app.netlify.com/) -->
-
 <h3><i>EDUCATION</i></h3>
 
 ![utn](https://img.shields.io/badge/UTN-white.svg?style=for-the-badge&logo=accenture&logoColor=black)
