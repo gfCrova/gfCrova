@@ -55,7 +55,9 @@
     <a href="https://www.mysql.com/" target="_blank"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/ae96145c-b3c6-4468-8c9c-a10f736d6a63" alt="mysql" width="35" height="35"/> 
     </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="30" height="35"/> </a> 
+    <a href="https://www.postgresql.org/" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="30" height="35"/> 
+    </a> 
   </th>
   <th>
     <h4><i>Tools:</i></h4>
