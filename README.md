@@ -61,11 +61,21 @@
   </th>
   <th>
     <h4><i>Tools:</i></h4>
-    <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> </a>
-    <a href="https://www.docker.com/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/b2384a0f-2416-47a0-af25-daae6d798b6c" width="40" height="40"/> </a>
-    <a href="https://junit.org/junit5/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/677b6e32-bf6b-49b2-a465-627d1f79ca18" width="35" height="35"/> </a>
-    <a href="https://www.postman.com/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a>
-    <a href="https://insomnia.rest/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="35" height="35"/> </a>
+    <a href="https://git-scm.com/"> 
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35"/> 
+    </a>
+    <a href="https://www.docker.com/"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/b2384a0f-2416-47a0-af25-daae6d798b6c" width="40" height="40"/> 
+    </a>
+    <a href="https://junit.org/junit5/"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/677b6e32-bf6b-49b2-a465-627d1f79ca18" width="35" height="35"/> 
+    </a>
+    <a href="https://www.postman.com/"> 
+        <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> 
+    </a>
+    <a href="https://insomnia.rest/"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="35" height="35"/> 
+    </a>
   </th>
 </table>
 
