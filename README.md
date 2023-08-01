@@ -14,7 +14,11 @@
     <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150" height="120"/>
   </div>
   
-</div><br><hr>
+</div>
+
+<br>
+
+<hr>
 
 <h3 align="center"><i>TECNOLOGIES</i></h3>
 
