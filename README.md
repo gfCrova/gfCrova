@@ -78,7 +78,11 @@
   <img width="710" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
   </div>
   
-</div><br><br><hr>
+</div>
+
+<br><br>
+
+<hr>
 
 <h3><i>CONTACT</i></h3>
 
