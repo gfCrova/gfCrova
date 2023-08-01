@@ -47,7 +47,11 @@
     <a href="https://www.postman.com/"> <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="45" height="35"/> </a>
     <a href="https://insomnia.rest/"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="35" height="35"/> </a>
   </th>
-</table><br><br><hr>
+</table>
+
+<br><br>
+
+<hr>
 
 <h3><i>EDUCATION</i></h3>
 
