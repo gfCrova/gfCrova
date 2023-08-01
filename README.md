@@ -25,9 +25,15 @@
 <table align="center">
   <th>
     <h4><i>Frontend:</i></h4>
-    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/610d3e76-6a38-4fb1-9bf0-c95b22d3d107" alt="html5" width="35" height="35"/> </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/cb179641-fe33-491a-a641-c19983ea90c9" alt="css3" width="35" height="35"/> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/b67713a5-f7e2-4e65-8442-13eef0279393" alt="bootstrap4" width="35" height="35"/> </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/610d3e76-6a38-4fb1-9bf0-c95b22d3d107" alt="html5" width="35" height="35"/> 
+    </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/cb179641-fe33-491a-a641-c19983ea90c9" alt="css3" width="35" height="35"/> 
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/b67713a5-f7e2-4e65-8442-13eef0279393" alt="bootstrap4" width="35" height="35"/> 
+    </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="35" height="35"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/69c414fb-69e8-4a9f-9db4-4ba4bab6af8c" alt="javascript" width="35" height="35"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="40"/> </a>
