@@ -46,9 +46,15 @@
   </th>
   <th>
     <h4><i>Backend:</i></h4>
-    <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="35" height="45"/> </a>
-    <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="65" height="35"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/gfCrova/gfCrova/assets/103906625/ae96145c-b3c6-4468-8c9c-a10f736d6a63" alt="mysql" width="35" height="35"/> </a>
+    <a href="https://www.java.com/es/" target="_blank"> 
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="35" height="45"/> 
+    </a>
+    <a href="https://spring.io/" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="65" height="35"/> 
+    </a>
+    <a href="https://www.mysql.com/" target="_blank"> 
+      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/ae96145c-b3c6-4468-8c9c-a10f736d6a63" alt="mysql" width="35" height="35"/> 
+    </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="mysql" width="30" height="35"/> </a> 
   </th>
   <th>
