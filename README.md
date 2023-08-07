@@ -79,7 +79,6 @@
 </table>
 
 <br><br>
-
 <hr>
 
 <h3><i>EDUCATION</i></h3>
