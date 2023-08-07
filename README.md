@@ -17,7 +17,6 @@
 </div>
 
 <br>
-
 <hr>
 
 <h3 align="center"><i>TECNOLOGIES</i></h3>
