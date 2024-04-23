@@ -7,9 +7,9 @@
  
   ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
 
-   <div>
+  <!-- <div>
     <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100%" height="100"/>
-  </div>
+  </div> -->
   
 </div>
 
