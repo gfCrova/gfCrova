@@ -7,6 +7,12 @@
  
   ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
 
+  [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
+  [![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
+
+  [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white
+  [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
   <!-- <div>
     <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100%" height="100"/>
   </div> -->
@@ -16,7 +22,7 @@
 <br>
 <hr>
 
-<h3 align="center"><i>TECNOLOGIES</i></h3>
+<!--<h3 align="center"><i>TECNOLOGIES</i></h3>
 
 <table align="center">
   <th>
@@ -88,9 +94,9 @@
 ![openBootcamp](https://img.shields.io/badge/openBootcamp-lightblue?style=for-the-badge&logo=opera&logoColor=darkblue)
 ![freecodecamp](https://img.shields.io/badge/freecodecamp-darkblue.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-<br><hr>
+<br><hr>-->
 
-<h3 align="center"><i>STATISTICS</i></h3>
+<!-- <h3 align="center"><i>STATISTICS</i></h3> -->
 
 <div align="center">
   
@@ -104,17 +110,6 @@
   </div>
   
 </div>
-
-<br><br>
-<hr>
-
-<h3><i>CONTACT</i></h3>
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gian-crova/)
-[![gmail][gmail-shield]](mailto:giancrova.cl5@gmail.com)
-
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=&fontSize=50&fontAlignY=65&animation=scaleIn"/>
