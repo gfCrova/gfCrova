@@ -96,7 +96,7 @@
 
 <br><hr>-->
 
-<!-- <h3 align="center"><i>STATISTICS</i></h3> -->
+<!-- <h3 align="center"><i>STATISTICS</i></h3> 
 
 <div align="center">
   
@@ -109,7 +109,7 @@
   <img width="710" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
   </div>
   
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=&fontSize=50&fontAlignY=65&animation=scaleIn"/>
