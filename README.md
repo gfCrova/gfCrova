@@ -1,7 +1,6 @@
 <div align="center">
 
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFoaTRzbDNkemd1eHBrZzV4YnFua2h5YXNtM3AxMGNpNmZheTBnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width="400"><br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfCrova&theme=blue_green)
   
  <!-- ![name](https://img.shields.io/badge/DEV:-Gian%20Franco%20Crova-red.svg?style=for-the-badge) ![nac](https://img.shields.io/badge/Buenos%20Aires-Argentina-lightblue?style=for-the-badge)-->
  
