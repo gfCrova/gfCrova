@@ -36,7 +36,7 @@
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="70"/> 
     </a>
     <a href="https://spring.io/" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/250px-Spring_Framework_Logo_2018.svg.png" width="150" height="50"/> 
+      <img width="60" height="70" alt="pngwing com (2)" src="https://github.com/user-attachments/assets/e3774b46-3716-44a3-a01b-e6ebfd73d14f" />
     </a>
     <a href="https://www.mysql.com/" target="_blank"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/ae96145c-b3c6-4468-8c9c-a10f736d6a63" alt="mysql" width="50" height="50"/> 
@@ -53,6 +53,14 @@
     <a href="https://insomnia.rest/"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="50" height="50"/> 
     </a>
+    <a href="https://www.jetbrains.com/"> 
+      <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/dba3ff3d-560b-40b3-a724-def404f69d99" />
+    </a>
+    <a href="https://code.visualstudio.com/"> 
+      <img width="50" height="45" alt="pngwing com (1)" src="https://github.com/user-attachments/assets/c4e10a51-15e8-4838-bbe6-6a0ed83030f8" />
+    </a>
+    
+    
   </h3>
 <hr>
 
