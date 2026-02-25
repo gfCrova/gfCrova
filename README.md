@@ -44,12 +44,6 @@
     <a href="https://insomnia.rest/"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="50" height="50"/> 
     </a>
-    <a href="https://www.jetbrains.com/"> 
-      <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/dba3ff3d-560b-40b3-a724-def404f69d99" />
-    </a>
-    <a href="https://code.visualstudio.com/"> 
-      <img width="50" height="45" alt="pngwing com (1)" src="https://github.com/user-attachments/assets/c4e10a51-15e8-4838-bbe6-6a0ed83030f8" />
-    </a>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/610d3e76-6a38-4fb1-9bf0-c95b22d3d107" alt="html5" width="45" height="45"/> 
     </a>
