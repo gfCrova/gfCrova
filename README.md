@@ -38,9 +38,6 @@
    <!-- <a href="https://junit.org/junit5/"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/677b6e32-bf6b-49b2-a465-627d1f79ca18"width="50" height="50"/> 
     </a>  -->
-    <a href="https://www.postman.com/"> 
-        <img src="https://user-images.githubusercontent.com/103906625/227739786-11dfe662-53c8-492e-b17a-b47b9ab37977.png" width="50" height="50"/> 
-    </a>
     <a href="https://insomnia.rest/"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/650cfa1d-7889-49a8-9ed4-5a3c24dcb38b" width="50" height="50"/> 
     </a>
