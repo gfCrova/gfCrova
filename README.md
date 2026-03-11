@@ -35,9 +35,9 @@
     <a href="https://git-scm.com/"> 
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/> 
     </a>
-   <!-- <a href="https://junit.org/junit5/"> 
-      <img src="https://github.com/gfCrova/gfCrova/assets/103906625/677b6e32-bf6b-49b2-a465-627d1f79ca18"width="50" height="50"/> 
-    </a>  -->
+  <a href="https://www.postgresql.org/"> 
+      <img width="50" height="50" alt="pngwing com" src="https://github.com/user-attachments/assets/ee79c75f-44cc-4661-8aee-4bde8f60ee9c" />
+    </a>
     <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/610d3e76-6a38-4fb1-9bf0-c95b22d3d107" alt="html5" width="45" height="45"/> 
     </a>
@@ -47,6 +47,7 @@
     <a href="https://sass-lang.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="50" height="50"/> 
     </a>
+    
     
   </h3>
 <hr>
