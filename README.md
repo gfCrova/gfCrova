@@ -12,9 +12,10 @@
   [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white
   [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-  <!-- <div>
-    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100%" height="100"/>
-  </div> -->
+  <!--<div>
+    <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
+     <img src="https://media2.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=ecf05e47ptttkawt9dblctxuhb714vwk486cl1z39xbz1jhq&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
+  </div>-->
   
 </div>
 
