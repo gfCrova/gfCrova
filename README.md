@@ -50,35 +50,4 @@
     
     
   </h3>
-<hr>
 
-<!-- <h3><i>EDUCATION</i></h3>
-
-![utn](https://img.shields.io/badge/UTN-white.svg?style=for-the-badge&logo=accenture&logoColor=black)
-![argprograma](https://img.shields.io/badge/argPrograma-black.svg?style=for-the-badge)
-![ONE](https://img.shields.io/badge/ONE-orange?style=for-the-badge&logo=oracle&logoColor=black)
-![aluraLatam](https://img.shields.io/badge/AluraLatam-blue.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![openBootcamp](https://img.shields.io/badge/openBootcamp-lightblue?style=for-the-badge&logo=opera&logoColor=darkblue)
-![freecodecamp](https://img.shields.io/badge/freecodecamp-darkblue.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)
-
-<br><hr> 
-
-<h3 align="center"><i>STATISTICS</i></h3> 
-
-<div align="center">
-  
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gfCrova&show_icons=true&theme=tokyonight" width="425" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfCrova&langs_count=8&layout=compact&theme=tokyonight" width="280" />
-  </div>
-  
-  <div align="center">
-  <img width="710" src="https://github-profile-trophy.vercel.app/?username=gfCrova&theme=tokyonight">
-  </div>
-  
-</div>-->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=&fontSize=50&fontAlignY=65&animation=scaleIn"/>
-</div>
