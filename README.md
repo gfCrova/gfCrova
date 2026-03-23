@@ -2,7 +2,7 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfCrova&theme=blue_green)
   
- <!-- ![name](https://img.shields.io/badge/DEV:-Gian%20Franco%20Crova-red.svg?style=for-the-badge) ![nac](https://img.shields.io/badge/Buenos%20Aires-Argentina-lightblue?style=for-the-badge)-->
+  <!--![name](https://img.shields.io/badge/DEV:-Gian%20Franco%20Crova-red.svg?style=for-the-badge) ![nac](https://img.shields.io/badge/Buenos%20Aires-Argentina-lightblue?style=for-the-badge)-->
  
   ![](https://komarev.com/ghpvc/?username=gfCrova&label=PROFILE+VIEWS)  ![GitHub Org's stars](https://img.shields.io/github/stars/gfCrova?style=social)  ![GitHub Org's stars](https://img.shields.io/github/followers/gfCrova?style=social)
 
@@ -48,7 +48,6 @@
     <a href="https://sass-lang.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="50" height="50"/> 
     </a>
-    
-    
-  </h3>
 
+
+  
