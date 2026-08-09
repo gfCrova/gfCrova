@@ -19,6 +19,7 @@
   
 </div>
 
+<!--
 <br>
 <hr>
 
@@ -48,6 +49,5 @@
     <a href="https://sass-lang.com/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="50" height="50"/> 
     </a>
-
-
+-->
   
