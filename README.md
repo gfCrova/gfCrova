@@ -25,10 +25,10 @@
 <h3 align="center"><i>TECNOLOGIES</i></h3>
   <h3 align="center">
     <a href="https://www.java.com/es/" target="_blank"> 
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="70"/> 
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="50"/> 
     </a>
     <a href="https://spring.io/" target="_blank"> 
-      <img width="60" height="70" alt="pngwing com (2)" src="https://github.com/user-attachments/assets/e3774b46-3716-44a3-a01b-e6ebfd73d14f" />
+      <img width="60" height="50" alt="pngwing com (2)" src="https://github.com/user-attachments/assets/e3774b46-3716-44a3-a01b-e6ebfd73d14f" />
     </a>
     <a href="https://www.mysql.com/" target="_blank"> 
       <img src="https://github.com/gfCrova/gfCrova/assets/103906625/ae96145c-b3c6-4468-8c9c-a10f736d6a63" alt="mysql" width="50" height="50"/> 
